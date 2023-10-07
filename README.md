@@ -3,7 +3,7 @@
 My name is gustavo gennari. I am java developer and dev full stack. I like make soundtrack for videogames in my free time. Also i like read tech articles or test new technologies.
 Here i leave it
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/gg2033/gg2033/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Go-00599C?style=flat-square&logo=Go&logoColor=white"/>
