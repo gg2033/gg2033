@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gg2033)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gg2033/gg2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
